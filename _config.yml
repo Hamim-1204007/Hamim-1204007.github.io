@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Omar's Webpage"
+title                    : "Omar's Homepage"
 title_separator          : "-"
 name                     : &name "Omar Faruqe Hamim"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile_hamim.png"
   name             : "Omar Faruqe Hamim"
   pronouns         : "He/Him"  
-  bio              : "Transportation Educator and Researcher"
+  bio              : "Educator and Researcher in Transportation Engineering"
   location         : "West Lafayette, IN, USA"
   employer         : "Purdue University"
   uri              : # URL
