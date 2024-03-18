@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Omar's Homepage"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Omar Faruqe Hamim"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://omarfaruqehamim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Hamim-1204007/Hamim-1204007.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,32 +22,32 @@ repository               : "Hamim-1204007/Hamim-1204007.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Omar Faruqe Hamim"
-  pronouns         : "He/Him"  
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "West Lafayette, Indiana, USA"
-  employer         : "Purdue University"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "ohamim@purdue.edu" 
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=giJjMEwAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-0976-7940"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://researchgate.net/profile/Omar_Hamim"
+  orcid            : "http://orcid.org/yourorcidurl"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Hamim-1204007"
+  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://linkedin.com/in/omar-faruqe-hamim-547168110"
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
