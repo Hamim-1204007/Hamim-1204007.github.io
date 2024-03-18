@@ -1,7 +1,7 @@
 ---
 title: "CE 102: Computer Aided Drafting"
 type: "Undergraduate Course"
-permalink: /teaching/teaching_lecturer_BUET
+permalink: /teaching/CE102_BUET
 venue: "Department of Civil Engineering, BUET"
 date: December 2017-November 2020
 location: "Dhaka, Bangladesh"
