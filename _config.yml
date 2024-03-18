@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hamim Homepage"
+title                    : "Personal Webpage"
 title_separator          : "-"
 name                     : &name "Omar Faruqe Hamim"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Omar Faruqe Hamim.jpg"
+  avatar           : "professional_photo.jpg"
   name             : "Omar Faruqe Hamim"
   pronouns         : "He/Him"  
   bio              : "Transportation Educator and Researcher"
