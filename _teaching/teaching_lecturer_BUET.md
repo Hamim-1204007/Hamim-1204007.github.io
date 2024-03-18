@@ -1,20 +1,17 @@
 ---
-title: "CE 102: Computer Aided Drafting"
-collection: teaching
-type: "Undergraduate Course"
+Course Title: "CE 102: Computer Aided Drafting"
+Course Level: "Undergraduate Course"
 permalink: /teaching/teaching_lecturer_BUET
-venue: "Department of Civil Engineering, BUET"
-date: 2014-01-01
-location: "Dhaka, Bangladesh"
+University: "Department of Civil Engineering, BUET"
+Date: December 2017-November 2020
+Location: "Dhaka, Bangladesh"
+---
+Course Title: "CE 104: Practical Surveying"
+Course Level: "Undergraduate Course"
+permalink: /teaching/teaching_lecturer_BUET
+University: "Department of Civil Engineering, BUET"
+Date: December 2017-November 2020
+Location: "Dhaka, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+As a Lecturer at Department of Civil Engineering, Bangladesh University of Engineering and Technology (BUET), I taught these courses to undergraduate students of different levels adn terms.
