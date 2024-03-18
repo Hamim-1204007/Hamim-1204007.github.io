@@ -12,16 +12,16 @@ title                    : "Omar's Homepage"
 title_separator          : "-"
 name                     : &name "Omar Faruqe Hamim"
 description              : &description "personal description"
-url                      : https://Hamim-1204007.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://omar-hamim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Hamim-1204007/Hamim-1204007.github.io"
+repository               : "omar-hamim/omar-hamim.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_hamim.png"
+  avatar           : "professional_photo.jpg"
   name             : "Omar Faruqe Hamim"
   pronouns         : "He/Him"  
   bio              : "Educator and Researcher in Transportation Engineering"
