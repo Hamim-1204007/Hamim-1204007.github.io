@@ -1,7 +1,7 @@
 ---
 title: "CE 104: Practical Surveying"
 type: "Undergraduate Course"
-permalink: /teaching/teaching_lecturer_BUET
+permalink: /teaching/CE104_BUET
 venue: "Department of Civil Engineering, BUET"
 date: December 2017-November 2020
 location: "Dhaka, Bangladesh"
