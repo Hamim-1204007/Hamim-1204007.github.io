@@ -2,9 +2,9 @@
 title: "CE 200: Details of Construction"
 type: "Undergraduate Course"
 permalink: /teaching/CE200_BUET
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Department of Civil Engineering, BUET"
+date: December 2017-November 2020
+location: "Dhaka, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+As a Lecturer at Department of Civil Engineering, Bangladesh University of Engineering and Technology (BUET), I taught this courses to undergraduate students of Level-2/Term-I.
